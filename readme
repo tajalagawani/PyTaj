@@ -1,1 +1,26 @@
-t
+PyTaj
+Vision and Language Multimodal AI Models
+PyTaj is built on PyTorch and was designed for Visual Question Answering (VQA) research — for example to answer questions related to visual data and to automatically generate image captions. 
+
+PyTaj features:
+
+Model Zoo: Reference implementations for state-of-the-art vision and language model including LoRRA (SoTA on VQA and TextVQA), 
+
+Multi-Tasking: Support for multi-tasking which allows training on multiple datasets together.
+
+Datasets: Includes support for various datasets built-in including VQA, VizWiz, TextVQA and VisualDialog.
+
+Modules: Provides implementations for many commonly used layers in the vision and language domain
+
+Distributed: Support for distributed training based on DataParallel as well as DistributedDataParallel.
+
+Unopinionated: Unopinionated about the dataset and model implementations built on top of it.
+
+Customisation: Custom losses, metrics, scheduling, optimisers, tensor-board; suits users’ custom needs.
+
+I believes the framework will enable vision and language researchers to produce faster prototyping studies and experimentation: “This work should also help researchers develop adaptive AI that synthesizes multiple kinds of understanding into a more context-based, multimodal understanding.”
+
+Installation :
+git clone https://github.com/tajalagawani/PyTaj
+
+
