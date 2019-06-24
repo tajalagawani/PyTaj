@@ -1,5 +1,10 @@
-PyTaj
-Vision and Language Multimodal AI Models
+
+
+
+
+
+## PyTaj
+# Vision and Language Multimodal AI Models
 PyTaj is built on PyTorch and was designed for Visual Question Answering (VQA) research — for example to answer questions related to visual data and to automatically generate image captions. 
 
 PyTaj features:
