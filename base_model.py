@@ -1,4 +1,4 @@
-# Copyright (c) Facebook, Inc. and its affiliates.
+
 """
 Models built on top of Pythia need to inherit ``BaseModel`` class and adhere to
 some format. To create a model for Pythia, follow this quick cheatsheet.
